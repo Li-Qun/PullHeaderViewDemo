@@ -1,0 +1,27 @@
+//
+//  HFPullHeaderViewDemo-Prefix.pch
+//  PullHeaderViewDemo
+//
+//  Created by HF on 2017/11/25.
+//  Copyright © 2017年 HF-Liqun. All rights reserved.
+//
+
+#ifndef HFPullHeaderViewDemo_Prefix_pch
+#define HFPullHeaderViewDemo_Prefix_pch
+
+//
+#define statusBar_height  ([[UIApplication sharedApplication] statusBarFrame].size.height) //状态栏高度
+#define nav_normal_height 44 //导航栏高度
+#define nav_expand_height 52 //导航栏扩展高度
+#define tabbarHeight   49    //tab高度
+#define tabbarBottomPadding  (kDevice_Is_iPhoneX ? 34 : 0) //tab 相对于底部 的安全距离
+
+
+
+#import "Masonry.h"
+#import "YYText.h"
+#import "UIView+YYAdd.h"
+#import "YYCGUtilities.h"
+
+
+#endif /* HFPullHeaderViewDemo_Prefix_pch */

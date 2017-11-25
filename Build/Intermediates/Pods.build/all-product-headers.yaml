@@ -1,0 +1,698 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [
+    {
+      'type': 'directory',
+      'name': "/Users/hr-zhjh/Documents/2017LiqunDemo/OC_Demo/PullHeaderViewDemo/Build/Products/Debug-iphonesimulator/Masonry/Masonry.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "MASCompositeConstraint.h",
+          'external-contents': "/Users/hr-zhjh/Documents/2017LiqunDemo/OC_Demo/PullHeaderViewDemo/Pods/Masonry/Masonry/MASCompositeConstraint.h"
+        },
+        {
+          'type': 'file',
+          'name': "MASConstraint+Private.h",
+          'external-contents': "/Users/hr-zhjh/Documents/2017LiqunDemo/OC_Demo/PullHeaderViewDemo/Pods/Masonry/Masonry/MASConstraint+Private.h"
+        },
+        {
+          'type': 'file',
+          'name': "MASConstraint.h",
+          'external-contents': "/Users/hr-zhjh/Documents/2017LiqunDemo/OC_Demo/PullHeaderViewDemo/Pods/Masonry/Masonry/MASConstraint.h"
+        },
+        {
+          'type': 'file',
+          'name': "MASConstraintMaker.h",
+          'external-contents': "/Users/hr-zhjh/Documents/2017LiqunDemo/OC_Demo/PullHeaderViewDemo/Pods/Masonry/Masonry/MASConstraintMaker.h"
+        },
+        {
+          'type': 'file',
+          'name': "MASLayoutConstraint.h",
+          'external-contents': "/Users/hr-zhjh/Documents/2017LiqunDemo/OC_Demo/PullHeaderViewDemo/Pods/Masonry/Masonry/MASLayoutConstraint.h"
+        },
+        {
+          'type': 'file',
+          'name': "MASUtilities.h",
+          'external-contents': "/Users/hr-zhjh/Documents/2017LiqunDemo/OC_Demo/PullHeaderViewDemo/Pods/Masonry/Masonry/MASUtilities.h"
+        },
+        {
+          'type': 'file',
+          'name': "MASViewAttribute.h",
+          'external-contents': "/Users/hr-zhjh/Documents/2017LiqunDemo/OC_Demo/PullHeaderViewDemo/Pods/Masonry/Masonry/MASViewAttribute.h"
+        },
+        {
+          'type': 'file',
+          'name': "MASViewConstraint.h",
+          'external-contents': "/Users/hr-zhjh/Documents/2017LiqunDemo/OC_Demo/PullHeaderViewDemo/Pods/Masonry/Masonry/MASViewConstraint.h"
+        },
+        {
+          'type': 'file',
+          'name': "Masonry-Swift.h",
+          'external-contents': "/Users/hr-zhjh/Documents/2017LiqunDemo/OC_Demo/PullHeaderViewDemo/Build/Products/Debug-iphonesimulator/Masonry/Masonry.framework/Headers/Masonry-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "Masonry-umbrella.h",
+          'external-contents': "/Users/hr-zhjh/Documents/2017LiqunDemo/OC_Demo/PullHeaderViewDemo/Pods/Target Support Files/Masonry/Masonry-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "Masonry.h",
+          'external-contents': "/Users/hr-zhjh/Documents/2017LiqunDemo/OC_Demo/PullHeaderViewDemo/Pods/Masonry/Masonry/Masonry.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSArray+MASAdditions.h",
+          'external-contents': "/Users/hr-zhjh/Documents/2017LiqunDemo/OC_Demo/PullHeaderViewDemo/Pods/Masonry/Masonry/NSArray+MASAdditions.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSArray+MASShorthandAdditions.h",
+          'external-contents': "/Users/hr-zhjh/Documents/2017LiqunDemo/OC_Demo/PullHeaderViewDemo/Pods/Masonry/Masonry/NSArray+MASShorthandAdditions.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSLayoutConstraint+MASDebugAdditions.h",
+          'external-contents': "/Users/hr-zhjh/Documents/2017LiqunDemo/OC_Demo/PullHeaderViewDemo/Pods/Masonry/Masonry/NSLayoutConstraint+MASDebugAdditions.h"
+        },
+        {
+          'type': 'file',
+          'name': "View+MASAdditions.h",
+          'external-contents': "/Users/hr-zhjh/Documents/2017LiqunDemo/OC_Demo/PullHeaderViewDemo/Pods/Masonry/Masonry/View+MASAdditions.h"
+        },
+        {
+          'type': 'file',
+          'name': "View+MASShorthandAdditions.h",
+          'external-contents': "/Users/hr-zhjh/Documents/2017LiqunDemo/OC_Demo/PullHeaderViewDemo/Pods/Masonry/Masonry/View+MASShorthandAdditions.h"
+        },
+        {
+          'type': 'file',
+          'name': "ViewController+MASAdditions.h",
+          'external-contents': "/Users/hr-zhjh/Documents/2017LiqunDemo/OC_Demo/PullHeaderViewDemo/Pods/Masonry/Masonry/ViewController+MASAdditions.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/hr-zhjh/Documents/2017LiqunDemo/OC_Demo/PullHeaderViewDemo/Build/Products/Debug-iphonesimulator/Masonry/Masonry.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/hr-zhjh/Documents/2017LiqunDemo/OC_Demo/PullHeaderViewDemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Masonry.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/hr-zhjh/Documents/2017LiqunDemo/OC_Demo/PullHeaderViewDemo/Build/Products/Debug-iphonesimulator/Pods_PullHeaderViewDemo.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "Pods-PullHeaderViewDemo-umbrella.h",
+          'external-contents': "/Users/hr-zhjh/Documents/2017LiqunDemo/OC_Demo/PullHeaderViewDemo/Pods/Target Support Files/Pods-PullHeaderViewDemo/Pods-PullHeaderViewDemo-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "Pods_PullHeaderViewDemo-Swift.h",
+          'external-contents': "/Users/hr-zhjh/Documents/2017LiqunDemo/OC_Demo/PullHeaderViewDemo/Build/Products/Debug-iphonesimulator/Pods_PullHeaderViewDemo.framework/Headers/Pods_PullHeaderViewDemo-Swift.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/hr-zhjh/Documents/2017LiqunDemo/OC_Demo/PullHeaderViewDemo/Build/Products/Debug-iphonesimulator/Pods_PullHeaderViewDemo.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/hr-zhjh/Documents/2017LiqunDemo/OC_Demo/PullHeaderViewDemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-PullHeaderViewDemo.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/hr-zhjh/Documents/2017LiqunDemo/OC_Demo/PullHeaderViewDemo/Build/Products/Debug-iphonesimulator/YYCache/YYCache.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "YYCache-Swift.h",
+          'external-contents': "/Users/hr-zhjh/Documents/2017LiqunDemo/OC_Demo/PullHeaderViewDemo/Build/Products/Debug-iphonesimulator/YYCache/YYCache.framework/Headers/YYCache-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "YYCache-umbrella.h",
+          'external-contents': "/Users/hr-zhjh/Documents/2017LiqunDemo/OC_Demo/PullHeaderViewDemo/Pods/Target Support Files/YYCache/YYCache-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "YYCache.h",
+          'external-contents': "/Users/hr-zhjh/Documents/2017LiqunDemo/OC_Demo/PullHeaderViewDemo/Pods/YYCache/YYCache/YYCache.h"
+        },
+        {
+          'type': 'file',
+          'name': "YYDiskCache.h",
+          'external-contents': "/Users/hr-zhjh/Documents/2017LiqunDemo/OC_Demo/PullHeaderViewDemo/Pods/YYCache/YYCache/YYDiskCache.h"
+        },
+        {
+          'type': 'file',
+          'name': "YYKVStorage.h",
+          'external-contents': "/Users/hr-zhjh/Documents/2017LiqunDemo/OC_Demo/PullHeaderViewDemo/Pods/YYCache/YYCache/YYKVStorage.h"
+        },
+        {
+          'type': 'file',
+          'name': "YYMemoryCache.h",
+          'external-contents': "/Users/hr-zhjh/Documents/2017LiqunDemo/OC_Demo/PullHeaderViewDemo/Pods/YYCache/YYCache/YYMemoryCache.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/hr-zhjh/Documents/2017LiqunDemo/OC_Demo/PullHeaderViewDemo/Build/Products/Debug-iphonesimulator/YYCache/YYCache.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/hr-zhjh/Documents/2017LiqunDemo/OC_Demo/PullHeaderViewDemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/YYCache.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/hr-zhjh/Documents/2017LiqunDemo/OC_Demo/PullHeaderViewDemo/Build/Products/Debug-iphonesimulator/YYCategories/YYCategories.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "CALayer+YYAdd.h",
+          'external-contents': "/Users/hr-zhjh/Documents/2017LiqunDemo/OC_Demo/PullHeaderViewDemo/Pods/YYCategories/YYCategories/Quartz/CALayer+YYAdd.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSArray+YYAdd.h",
+          'external-contents': "/Users/hr-zhjh/Documents/2017LiqunDemo/OC_Demo/PullHeaderViewDemo/Pods/YYCategories/YYCategories/Foundation/NSArray+YYAdd.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSBundle+YYAdd.h",
+          'external-contents': "/Users/hr-zhjh/Documents/2017LiqunDemo/OC_Demo/PullHeaderViewDemo/Pods/YYCategories/YYCategories/Foundation/NSBundle+YYAdd.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSData+YYAdd.h",
+          'external-contents': "/Users/hr-zhjh/Documents/2017LiqunDemo/OC_Demo/PullHeaderViewDemo/Pods/YYCategories/YYCategories/Foundation/NSData+YYAdd.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSDate+YYAdd.h",
+          'external-contents': "/Users/hr-zhjh/Documents/2017LiqunDemo/OC_Demo/PullHeaderViewDemo/Pods/YYCategories/YYCategories/Foundation/NSDate+YYAdd.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSDictionary+YYAdd.h",
+          'external-contents': "/Users/hr-zhjh/Documents/2017LiqunDemo/OC_Demo/PullHeaderViewDemo/Pods/YYCategories/YYCategories/Foundation/NSDictionary+YYAdd.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSKeyedUnarchiver+YYAdd.h",
+          'external-contents': "/Users/hr-zhjh/Documents/2017LiqunDemo/OC_Demo/PullHeaderViewDemo/Pods/YYCategories/YYCategories/Foundation/NSKeyedUnarchiver+YYAdd.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSNotificationCenter+YYAdd.h",
+          'external-contents': "/Users/hr-zhjh/Documents/2017LiqunDemo/OC_Demo/PullHeaderViewDemo/Pods/YYCategories/YYCategories/Foundation/NSNotificationCenter+YYAdd.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSNumber+YYAdd.h",
+          'external-contents': "/Users/hr-zhjh/Documents/2017LiqunDemo/OC_Demo/PullHeaderViewDemo/Pods/YYCategories/YYCategories/Foundation/NSNumber+YYAdd.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSObject+YYAdd.h",
+          'external-contents': "/Users/hr-zhjh/Documents/2017LiqunDemo/OC_Demo/PullHeaderViewDemo/Pods/YYCategories/YYCategories/Foundation/NSObject+YYAdd.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSObject+YYAddForARC.h",
+          'external-contents': "/Users/hr-zhjh/Documents/2017LiqunDemo/OC_Demo/PullHeaderViewDemo/Pods/YYCategories/YYCategories/Foundation/NSObject+YYAddForARC.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSObject+YYAddForKVO.h",
+          'external-contents': "/Users/hr-zhjh/Documents/2017LiqunDemo/OC_Demo/PullHeaderViewDemo/Pods/YYCategories/YYCategories/Foundation/NSObject+YYAddForKVO.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSString+YYAdd.h",
+          'external-contents': "/Users/hr-zhjh/Documents/2017LiqunDemo/OC_Demo/PullHeaderViewDemo/Pods/YYCategories/YYCategories/Foundation/NSString+YYAdd.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSThread+YYAdd.h",
+          'external-contents': "/Users/hr-zhjh/Documents/2017LiqunDemo/OC_Demo/PullHeaderViewDemo/Pods/YYCategories/YYCategories/Foundation/NSThread+YYAdd.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSTimer+YYAdd.h",
+          'external-contents': "/Users/hr-zhjh/Documents/2017LiqunDemo/OC_Demo/PullHeaderViewDemo/Pods/YYCategories/YYCategories/Foundation/NSTimer+YYAdd.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIApplication+YYAdd.h",
+          'external-contents': "/Users/hr-zhjh/Documents/2017LiqunDemo/OC_Demo/PullHeaderViewDemo/Pods/YYCategories/YYCategories/UIKit/UIApplication+YYAdd.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIBarButtonItem+YYAdd.h",
+          'external-contents': "/Users/hr-zhjh/Documents/2017LiqunDemo/OC_Demo/PullHeaderViewDemo/Pods/YYCategories/YYCategories/UIKit/UIBarButtonItem+YYAdd.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIBezierPath+YYAdd.h",
+          'external-contents': "/Users/hr-zhjh/Documents/2017LiqunDemo/OC_Demo/PullHeaderViewDemo/Pods/YYCategories/YYCategories/UIKit/UIBezierPath+YYAdd.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIColor+YYAdd.h",
+          'external-contents': "/Users/hr-zhjh/Documents/2017LiqunDemo/OC_Demo/PullHeaderViewDemo/Pods/YYCategories/YYCategories/UIKit/UIColor+YYAdd.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIControl+YYAdd.h",
+          'external-contents': "/Users/hr-zhjh/Documents/2017LiqunDemo/OC_Demo/PullHeaderViewDemo/Pods/YYCategories/YYCategories/UIKit/UIControl+YYAdd.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIDevice+YYAdd.h",
+          'external-contents': "/Users/hr-zhjh/Documents/2017LiqunDemo/OC_Demo/PullHeaderViewDemo/Pods/YYCategories/YYCategories/UIKit/UIDevice+YYAdd.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIFont+YYAdd.h",
+          'external-contents': "/Users/hr-zhjh/Documents/2017LiqunDemo/OC_Demo/PullHeaderViewDemo/Pods/YYCategories/YYCategories/UIKit/UIFont+YYAdd.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIGestureRecognizer+YYAdd.h",
+          'external-contents': "/Users/hr-zhjh/Documents/2017LiqunDemo/OC_Demo/PullHeaderViewDemo/Pods/YYCategories/YYCategories/UIKit/UIGestureRecognizer+YYAdd.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIImage+YYAdd.h",
+          'external-contents': "/Users/hr-zhjh/Documents/2017LiqunDemo/OC_Demo/PullHeaderViewDemo/Pods/YYCategories/YYCategories/UIKit/UIImage+YYAdd.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIScreen+YYAdd.h",
+          'external-contents': "/Users/hr-zhjh/Documents/2017LiqunDemo/OC_Demo/PullHeaderViewDemo/Pods/YYCategories/YYCategories/UIKit/UIScreen+YYAdd.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIScrollView+YYAdd.h",
+          'external-contents': "/Users/hr-zhjh/Documents/2017LiqunDemo/OC_Demo/PullHeaderViewDemo/Pods/YYCategories/YYCategories/UIKit/UIScrollView+YYAdd.h"
+        },
+        {
+          'type': 'file',
+          'name': "UITableView+YYAdd.h",
+          'external-contents': "/Users/hr-zhjh/Documents/2017LiqunDemo/OC_Demo/PullHeaderViewDemo/Pods/YYCategories/YYCategories/UIKit/UITableView+YYAdd.h"
+        },
+        {
+          'type': 'file',
+          'name': "UITextField+YYAdd.h",
+          'external-contents': "/Users/hr-zhjh/Documents/2017LiqunDemo/OC_Demo/PullHeaderViewDemo/Pods/YYCategories/YYCategories/UIKit/UITextField+YYAdd.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIView+YYAdd.h",
+          'external-contents': "/Users/hr-zhjh/Documents/2017LiqunDemo/OC_Demo/PullHeaderViewDemo/Pods/YYCategories/YYCategories/UIKit/UIView+YYAdd.h"
+        },
+        {
+          'type': 'file',
+          'name': "YYCGUtilities.h",
+          'external-contents': "/Users/hr-zhjh/Documents/2017LiqunDemo/OC_Demo/PullHeaderViewDemo/Pods/YYCategories/YYCategories/Quartz/YYCGUtilities.h"
+        },
+        {
+          'type': 'file',
+          'name': "YYCategories-Swift.h",
+          'external-contents': "/Users/hr-zhjh/Documents/2017LiqunDemo/OC_Demo/PullHeaderViewDemo/Build/Products/Debug-iphonesimulator/YYCategories/YYCategories.framework/Headers/YYCategories-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "YYCategories-umbrella.h",
+          'external-contents': "/Users/hr-zhjh/Documents/2017LiqunDemo/OC_Demo/PullHeaderViewDemo/Pods/Target Support Files/YYCategories/YYCategories-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "YYCategories.h",
+          'external-contents': "/Users/hr-zhjh/Documents/2017LiqunDemo/OC_Demo/PullHeaderViewDemo/Pods/YYCategories/YYCategories/YYCategories.h"
+        },
+        {
+          'type': 'file',
+          'name': "YYCategoriesMacro.h",
+          'external-contents': "/Users/hr-zhjh/Documents/2017LiqunDemo/OC_Demo/PullHeaderViewDemo/Pods/YYCategories/YYCategories/YYCategoriesMacro.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/hr-zhjh/Documents/2017LiqunDemo/OC_Demo/PullHeaderViewDemo/Build/Products/Debug-iphonesimulator/YYCategories/YYCategories.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/hr-zhjh/Documents/2017LiqunDemo/OC_Demo/PullHeaderViewDemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/YYCategories.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/hr-zhjh/Documents/2017LiqunDemo/OC_Demo/PullHeaderViewDemo/Build/Products/Debug-iphonesimulator/YYImage/YYImage.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "YYAnimatedImageView.h",
+          'external-contents': "/Users/hr-zhjh/Documents/2017LiqunDemo/OC_Demo/PullHeaderViewDemo/Pods/YYImage/YYImage/YYAnimatedImageView.h"
+        },
+        {
+          'type': 'file',
+          'name': "YYFrameImage.h",
+          'external-contents': "/Users/hr-zhjh/Documents/2017LiqunDemo/OC_Demo/PullHeaderViewDemo/Pods/YYImage/YYImage/YYFrameImage.h"
+        },
+        {
+          'type': 'file',
+          'name': "YYImage-Swift.h",
+          'external-contents': "/Users/hr-zhjh/Documents/2017LiqunDemo/OC_Demo/PullHeaderViewDemo/Build/Products/Debug-iphonesimulator/YYImage/YYImage.framework/Headers/YYImage-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "YYImage-umbrella.h",
+          'external-contents': "/Users/hr-zhjh/Documents/2017LiqunDemo/OC_Demo/PullHeaderViewDemo/Pods/Target Support Files/YYImage/YYImage-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "YYImage.h",
+          'external-contents': "/Users/hr-zhjh/Documents/2017LiqunDemo/OC_Demo/PullHeaderViewDemo/Pods/YYImage/YYImage/YYImage.h"
+        },
+        {
+          'type': 'file',
+          'name': "YYImageCoder.h",
+          'external-contents': "/Users/hr-zhjh/Documents/2017LiqunDemo/OC_Demo/PullHeaderViewDemo/Pods/YYImage/YYImage/YYImageCoder.h"
+        },
+        {
+          'type': 'file',
+          'name': "YYSpriteSheetImage.h",
+          'external-contents': "/Users/hr-zhjh/Documents/2017LiqunDemo/OC_Demo/PullHeaderViewDemo/Pods/YYImage/YYImage/YYSpriteSheetImage.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/hr-zhjh/Documents/2017LiqunDemo/OC_Demo/PullHeaderViewDemo/Build/Products/Debug-iphonesimulator/YYImage/YYImage.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/hr-zhjh/Documents/2017LiqunDemo/OC_Demo/PullHeaderViewDemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/YYImage.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/hr-zhjh/Documents/2017LiqunDemo/OC_Demo/PullHeaderViewDemo/Build/Products/Debug-iphonesimulator/YYModel/YYModel.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "NSObject+YYModel.h",
+          'external-contents': "/Users/hr-zhjh/Documents/2017LiqunDemo/OC_Demo/PullHeaderViewDemo/Pods/YYModel/YYModel/NSObject+YYModel.h"
+        },
+        {
+          'type': 'file',
+          'name': "YYClassInfo.h",
+          'external-contents': "/Users/hr-zhjh/Documents/2017LiqunDemo/OC_Demo/PullHeaderViewDemo/Pods/YYModel/YYModel/YYClassInfo.h"
+        },
+        {
+          'type': 'file',
+          'name': "YYModel-Swift.h",
+          'external-contents': "/Users/hr-zhjh/Documents/2017LiqunDemo/OC_Demo/PullHeaderViewDemo/Build/Products/Debug-iphonesimulator/YYModel/YYModel.framework/Headers/YYModel-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "YYModel-umbrella.h",
+          'external-contents': "/Users/hr-zhjh/Documents/2017LiqunDemo/OC_Demo/PullHeaderViewDemo/Pods/Target Support Files/YYModel/YYModel-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "YYModel.h",
+          'external-contents': "/Users/hr-zhjh/Documents/2017LiqunDemo/OC_Demo/PullHeaderViewDemo/Pods/YYModel/YYModel/YYModel.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/hr-zhjh/Documents/2017LiqunDemo/OC_Demo/PullHeaderViewDemo/Build/Products/Debug-iphonesimulator/YYModel/YYModel.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/hr-zhjh/Documents/2017LiqunDemo/OC_Demo/PullHeaderViewDemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/YYModel.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/hr-zhjh/Documents/2017LiqunDemo/OC_Demo/PullHeaderViewDemo/Build/Products/Debug-iphonesimulator/YYText/YYText.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "NSAttributedString+YYText.h",
+          'external-contents': "/Users/hr-zhjh/Documents/2017LiqunDemo/OC_Demo/PullHeaderViewDemo/Pods/YYText/YYText/Utility/NSAttributedString+YYText.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSParagraphStyle+YYText.h",
+          'external-contents': "/Users/hr-zhjh/Documents/2017LiqunDemo/OC_Demo/PullHeaderViewDemo/Pods/YYText/YYText/Utility/NSParagraphStyle+YYText.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIPasteboard+YYText.h",
+          'external-contents': "/Users/hr-zhjh/Documents/2017LiqunDemo/OC_Demo/PullHeaderViewDemo/Pods/YYText/YYText/Utility/UIPasteboard+YYText.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIView+YYText.h",
+          'external-contents': "/Users/hr-zhjh/Documents/2017LiqunDemo/OC_Demo/PullHeaderViewDemo/Pods/YYText/YYText/Utility/UIView+YYText.h"
+        },
+        {
+          'type': 'file',
+          'name': "YYLabel.h",
+          'external-contents': "/Users/hr-zhjh/Documents/2017LiqunDemo/OC_Demo/PullHeaderViewDemo/Pods/YYText/YYText/YYLabel.h"
+        },
+        {
+          'type': 'file',
+          'name': "YYText-Swift.h",
+          'external-contents': "/Users/hr-zhjh/Documents/2017LiqunDemo/OC_Demo/PullHeaderViewDemo/Build/Products/Debug-iphonesimulator/YYText/YYText.framework/Headers/YYText-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "YYText-umbrella.h",
+          'external-contents': "/Users/hr-zhjh/Documents/2017LiqunDemo/OC_Demo/PullHeaderViewDemo/Pods/Target Support Files/YYText/YYText-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "YYText.h",
+          'external-contents': "/Users/hr-zhjh/Documents/2017LiqunDemo/OC_Demo/PullHeaderViewDemo/Pods/YYText/YYText/YYText.h"
+        },
+        {
+          'type': 'file',
+          'name': "YYTextArchiver.h",
+          'external-contents': "/Users/hr-zhjh/Documents/2017LiqunDemo/OC_Demo/PullHeaderViewDemo/Pods/YYText/YYText/String/YYTextArchiver.h"
+        },
+        {
+          'type': 'file',
+          'name': "YYTextAsyncLayer.h",
+          'external-contents': "/Users/hr-zhjh/Documents/2017LiqunDemo/OC_Demo/PullHeaderViewDemo/Pods/YYText/YYText/Utility/YYTextAsyncLayer.h"
+        },
+        {
+          'type': 'file',
+          'name': "YYTextAttribute.h",
+          'external-contents': "/Users/hr-zhjh/Documents/2017LiqunDemo/OC_Demo/PullHeaderViewDemo/Pods/YYText/YYText/String/YYTextAttribute.h"
+        },
+        {
+          'type': 'file',
+          'name': "YYTextContainerView.h",
+          'external-contents': "/Users/hr-zhjh/Documents/2017LiqunDemo/OC_Demo/PullHeaderViewDemo/Pods/YYText/YYText/Component/YYTextContainerView.h"
+        },
+        {
+          'type': 'file',
+          'name': "YYTextDebugOption.h",
+          'external-contents': "/Users/hr-zhjh/Documents/2017LiqunDemo/OC_Demo/PullHeaderViewDemo/Pods/YYText/YYText/Component/YYTextDebugOption.h"
+        },
+        {
+          'type': 'file',
+          'name': "YYTextEffectWindow.h",
+          'external-contents': "/Users/hr-zhjh/Documents/2017LiqunDemo/OC_Demo/PullHeaderViewDemo/Pods/YYText/YYText/Component/YYTextEffectWindow.h"
+        },
+        {
+          'type': 'file',
+          'name': "YYTextInput.h",
+          'external-contents': "/Users/hr-zhjh/Documents/2017LiqunDemo/OC_Demo/PullHeaderViewDemo/Pods/YYText/YYText/Component/YYTextInput.h"
+        },
+        {
+          'type': 'file',
+          'name': "YYTextKeyboardManager.h",
+          'external-contents': "/Users/hr-zhjh/Documents/2017LiqunDemo/OC_Demo/PullHeaderViewDemo/Pods/YYText/YYText/Component/YYTextKeyboardManager.h"
+        },
+        {
+          'type': 'file',
+          'name': "YYTextLayout.h",
+          'external-contents': "/Users/hr-zhjh/Documents/2017LiqunDemo/OC_Demo/PullHeaderViewDemo/Pods/YYText/YYText/Component/YYTextLayout.h"
+        },
+        {
+          'type': 'file',
+          'name': "YYTextLine.h",
+          'external-contents': "/Users/hr-zhjh/Documents/2017LiqunDemo/OC_Demo/PullHeaderViewDemo/Pods/YYText/YYText/Component/YYTextLine.h"
+        },
+        {
+          'type': 'file',
+          'name': "YYTextMagnifier.h",
+          'external-contents': "/Users/hr-zhjh/Documents/2017LiqunDemo/OC_Demo/PullHeaderViewDemo/Pods/YYText/YYText/Component/YYTextMagnifier.h"
+        },
+        {
+          'type': 'file',
+          'name': "YYTextParser.h",
+          'external-contents': "/Users/hr-zhjh/Documents/2017LiqunDemo/OC_Demo/PullHeaderViewDemo/Pods/YYText/YYText/String/YYTextParser.h"
+        },
+        {
+          'type': 'file',
+          'name': "YYTextRubyAnnotation.h",
+          'external-contents': "/Users/hr-zhjh/Documents/2017LiqunDemo/OC_Demo/PullHeaderViewDemo/Pods/YYText/YYText/String/YYTextRubyAnnotation.h"
+        },
+        {
+          'type': 'file',
+          'name': "YYTextRunDelegate.h",
+          'external-contents': "/Users/hr-zhjh/Documents/2017LiqunDemo/OC_Demo/PullHeaderViewDemo/Pods/YYText/YYText/String/YYTextRunDelegate.h"
+        },
+        {
+          'type': 'file',
+          'name': "YYTextSelectionView.h",
+          'external-contents': "/Users/hr-zhjh/Documents/2017LiqunDemo/OC_Demo/PullHeaderViewDemo/Pods/YYText/YYText/Component/YYTextSelectionView.h"
+        },
+        {
+          'type': 'file',
+          'name': "YYTextTransaction.h",
+          'external-contents': "/Users/hr-zhjh/Documents/2017LiqunDemo/OC_Demo/PullHeaderViewDemo/Pods/YYText/YYText/Utility/YYTextTransaction.h"
+        },
+        {
+          'type': 'file',
+          'name': "YYTextUtilities.h",
+          'external-contents': "/Users/hr-zhjh/Documents/2017LiqunDemo/OC_Demo/PullHeaderViewDemo/Pods/YYText/YYText/Utility/YYTextUtilities.h"
+        },
+        {
+          'type': 'file',
+          'name': "YYTextView.h",
+          'external-contents': "/Users/hr-zhjh/Documents/2017LiqunDemo/OC_Demo/PullHeaderViewDemo/Pods/YYText/YYText/YYTextView.h"
+        },
+        {
+          'type': 'file',
+          'name': "YYTextWeakProxy.h",
+          'external-contents': "/Users/hr-zhjh/Documents/2017LiqunDemo/OC_Demo/PullHeaderViewDemo/Pods/YYText/YYText/Utility/YYTextWeakProxy.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/hr-zhjh/Documents/2017LiqunDemo/OC_Demo/PullHeaderViewDemo/Build/Products/Debug-iphonesimulator/YYText/YYText.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/hr-zhjh/Documents/2017LiqunDemo/OC_Demo/PullHeaderViewDemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/YYText.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/hr-zhjh/Documents/2017LiqunDemo/OC_Demo/PullHeaderViewDemo/Build/Products/Debug-iphonesimulator/YYWebImage/YYWebImage.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "CALayer+YYWebImage.h",
+          'external-contents': "/Users/hr-zhjh/Documents/2017LiqunDemo/OC_Demo/PullHeaderViewDemo/Pods/YYWebImage/YYWebImage/Categories/CALayer+YYWebImage.h"
+        },
+        {
+          'type': 'file',
+          'name': "MKAnnotationView+YYWebImage.h",
+          'external-contents': "/Users/hr-zhjh/Documents/2017LiqunDemo/OC_Demo/PullHeaderViewDemo/Pods/YYWebImage/YYWebImage/Categories/MKAnnotationView+YYWebImage.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIButton+YYWebImage.h",
+          'external-contents': "/Users/hr-zhjh/Documents/2017LiqunDemo/OC_Demo/PullHeaderViewDemo/Pods/YYWebImage/YYWebImage/Categories/UIButton+YYWebImage.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIImage+YYWebImage.h",
+          'external-contents': "/Users/hr-zhjh/Documents/2017LiqunDemo/OC_Demo/PullHeaderViewDemo/Pods/YYWebImage/YYWebImage/Categories/UIImage+YYWebImage.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIImageView+YYWebImage.h",
+          'external-contents': "/Users/hr-zhjh/Documents/2017LiqunDemo/OC_Demo/PullHeaderViewDemo/Pods/YYWebImage/YYWebImage/Categories/UIImageView+YYWebImage.h"
+        },
+        {
+          'type': 'file',
+          'name': "YYImageCache.h",
+          'external-contents': "/Users/hr-zhjh/Documents/2017LiqunDemo/OC_Demo/PullHeaderViewDemo/Pods/YYWebImage/YYWebImage/YYImageCache.h"
+        },
+        {
+          'type': 'file',
+          'name': "YYWebImage-Swift.h",
+          'external-contents': "/Users/hr-zhjh/Documents/2017LiqunDemo/OC_Demo/PullHeaderViewDemo/Build/Products/Debug-iphonesimulator/YYWebImage/YYWebImage.framework/Headers/YYWebImage-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "YYWebImage-umbrella.h",
+          'external-contents': "/Users/hr-zhjh/Documents/2017LiqunDemo/OC_Demo/PullHeaderViewDemo/Pods/Target Support Files/YYWebImage/YYWebImage-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "YYWebImage.h",
+          'external-contents': "/Users/hr-zhjh/Documents/2017LiqunDemo/OC_Demo/PullHeaderViewDemo/Pods/YYWebImage/YYWebImage/YYWebImage.h"
+        },
+        {
+          'type': 'file',
+          'name': "YYWebImageManager.h",
+          'external-contents': "/Users/hr-zhjh/Documents/2017LiqunDemo/OC_Demo/PullHeaderViewDemo/Pods/YYWebImage/YYWebImage/YYWebImageManager.h"
+        },
+        {
+          'type': 'file',
+          'name': "YYWebImageOperation.h",
+          'external-contents': "/Users/hr-zhjh/Documents/2017LiqunDemo/OC_Demo/PullHeaderViewDemo/Pods/YYWebImage/YYWebImage/YYWebImageOperation.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/hr-zhjh/Documents/2017LiqunDemo/OC_Demo/PullHeaderViewDemo/Build/Products/Debug-iphonesimulator/YYWebImage/YYWebImage.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/hr-zhjh/Documents/2017LiqunDemo/OC_Demo/PullHeaderViewDemo/Build/Intermediates/Pods.build/Debug-iphonesimulator/YYWebImage.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/hr-zhjh/Documents/2017LiqunDemo/OC_Demo/PullHeaderViewDemo/Build/Products/Debug-iphonesimulator/YYWebImage/YYWebImage.framework/PrivateHeaders",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "_YYWebImageSetter.h",
+          'external-contents': "/Users/hr-zhjh/Documents/2017LiqunDemo/OC_Demo/PullHeaderViewDemo/Pods/YYWebImage/YYWebImage/Categories/_YYWebImageSetter.h"
+        }
+      ]
+    }
+  ]
+}
